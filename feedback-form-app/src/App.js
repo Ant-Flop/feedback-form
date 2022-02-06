@@ -1,25 +1,33 @@
-import logo from './logo.svg';
 import './App.css';
+import React from "react";
+import styled, {css} from 'styled-components'
+
+const Input = styled.input.attrs(props => ({
+    type: "text",
+    size: props.size || "1em",
+}))`
+  color: #2D2D2D;
+  font-size: 1em;
+  border: 1px solid #DCDCDC;
+  border-radius: 10px;
+  margin: ${props => props.size};
+  padding: ${props => props.size};
+`;
+
+const Grid = styled.div`
+  display: grid;
+`
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+            <Grid>
+                <Input placeholder="Your name*"/>
+                <Input placeholder="Your e-mail*"/>
+                <Input placeholder="Your message*"/>
+            </Grid>
+        </div>
+    );
 }
 
 export default App;
