@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: grid;
+  justify-items: center;
+  background-image: url(http://res.cloudinary.com/simpleview/image/upload/v1528972382/clients/norway/d1cbdd81_95dc_4d03_96bc_a31440b9ca9c_af984979-fba4-43d6-8415-80656c70228b.jpg);
+  backdrop-filter: blur(20%);
 }
 
 code {

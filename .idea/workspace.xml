@@ -20,31 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cc74fee-efb4-4246-b3c9-f7db30387e7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.idea/feedback-form-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback-form-app/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/FeedbackFormReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Components/FeedbackForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Components/FeedbackForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644270108440</updated>
       <workItem from="1644270110000" duration="5497000" />
+      <workItem from="1644298054828" duration="30557000" />
     </task>
     <servers />
   </component>
@@ -96,5 +83,40 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="850" y="244" key="#Inspections" timestamp="1644304133005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="244" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1644304133005" />
+    <state x="307" y="348" key="#SQL_Resolution_Scopes" timestamp="1644298810146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="307" y="348" key="#SQL_Resolution_Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1644298810146" />
+    <state x="1024" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644298873834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1024" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644298873834" />
+    <state width="1871" height="260" key="GridCell.Tab.0.bottom" timestamp="1644298318205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644298318205" />
+    <state width="1871" height="260" key="GridCell.Tab.0.center" timestamp="1644298318205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644298318205" />
+    <state width="1871" height="260" key="GridCell.Tab.0.left" timestamp="1644298318205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644298318205" />
+    <state width="1871" height="260" key="GridCell.Tab.0.right" timestamp="1644298318205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1871" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644298318205" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1644314137240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644314137240" />
   </component>
 </project>

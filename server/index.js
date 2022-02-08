@@ -19,9 +19,10 @@ app.use(bodyParser.urlencoded({extended: true}))
 app.post('/api/insert', (req, res)=>{
     const name = req.body.name;
     const email = req.body.email;
+    const message = req.body.message;
 
-    const sqlInsert = "INSERT INTO users (name, email) VALUES (?, ?)";
-    db.query(sqlInsert, [name, email], (err, result) => {
+    const sqlInsert = "INSERT INTO users_message (name, email, message) VALUES (?, ?, ?)";
+    db.query(sqlInsert, [name, email, message], (err, result) => {
         console.log(result)
     })
 })
